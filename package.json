@@ -1,6 +1,6 @@
 {
   "name": "framework-arduino-mbed",
-  "version": "4.0.7",
+  "version": "4.0.11",
   "description": "Arduino framework supporting mbed-enabled boards",
   "keywords": [
     "framework",
